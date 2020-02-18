@@ -1,3 +1,5 @@
-## UltimateAI
-# Try github features
-__Go to 'projects' label and start working, Ia Alli__
+----------
+> # UltimateAI
+> ## Try github features
+> ### Go to 'projects' label and start working, Ia Alli ###
+----------
